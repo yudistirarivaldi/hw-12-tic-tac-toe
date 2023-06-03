@@ -1,3 +1,16 @@
+# tampilan ketika X menang
+
+![x win](https://github.com/yudistirarivaldi/hw-12-tic-tac-toe/assets/79072313/87b7cce9-5ae7-45a6-ae5f-6dac3a78b685)
+
+# tampilan ketika O menang
+
+![o win](https://github.com/yudistirarivaldi/hw-12-tic-tac-toe/assets/79072313/e2869557-d25f-420c-bfcb-cc28dd2d5925)
+
+# tampilan ketika imbang
+
+![draw](https://github.com/yudistirarivaldi/hw-12-tic-tac-toe/assets/79072313/400f94a6-c853-4851-a850-e3065e57e743)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +81,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
